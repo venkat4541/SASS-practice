@@ -1,0 +1,21 @@
+{
+  "name": "sass-practice",
+  "version": "1.0.0",
+  "description": "Practising SASS",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.5.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.5.2"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkat4541/SASS-practice.git"
+  },
+  "author": "Venkat",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/venkat4541/SASS-practice#readme"
+}
